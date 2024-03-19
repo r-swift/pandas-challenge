@@ -1,6 +1,14 @@
 # pandas-challenge
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
+# Content
+* Resources
+  * schools_complete.csv
+  * students_complete.csv
+* PyCitySchools Folder
+  * PyCitySchools Jupyter Notebook file
+    * Analysis is included on the top of the Jupyter Notebook File
+
 ## Background
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
@@ -70,7 +78,11 @@ Include the following metrics in the table:
 * Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
 ## Resources 
-* Snippets of initial starter code provided by the school
+* Initial starter code provided by the school
 * Class notes and lessons
 * Assistance from Professor and TA to help fix formatting issue on school provided code
-
+* Assistance with Markdown Cells within Jupyter Notebook
+  * Jupyter Notebook: https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
+* Assistance with pd.cut
+  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html
+  * Assistance with Labels = Labels within pd.cut: https://machinelearningknowledge.ai/pandas-cut-function-tutorial-pd-cut-explained-with-examples/#google_vignette
